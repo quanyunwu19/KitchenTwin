@@ -10,7 +10,7 @@ Embodied AI training and evaluation require object-centric digital twin environm
 ## Pipeline
 The following is the overall architecture diagram of this system:
 
-![Pipeline Image](./assets/pipeline.png)
+![Pipeline Image](./assets/Pipeline.png)
 *Figure 1: System Pipeline Diagram, illustrating the entire process from image input to digital twin model output.*
 
 ---
