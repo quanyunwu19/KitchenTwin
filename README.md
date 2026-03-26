@@ -50,4 +50,4 @@ Geometric registration metrics and mesh complexity. We report the TrICP Root Mea
 
 ---
 
-Code will come soon
+Code coming soon
