@@ -10,7 +10,7 @@ Embodied AI training and evaluation require object-centric digital twin environm
 ## Pipeline
 The following is the overall architecture diagram of this system:
 
-![Pipeline Image](./assets/Pipeline.png)
+![Pipeline Image](./asset/Pipeline.png)
 *Figure 1: System Pipeline Diagram, illustrating the entire process from image input to digital twin model output.*
 
 ---
@@ -18,7 +18,7 @@ The following is the overall architecture diagram of this system:
 ## Results
 
 ### 1. Visulization
-![Results Image](./assets/results.png)
+![Results Image](./asset/results.png)
 *Qualitative comparison of the assembled 3D digital twin. Left: The baseline fails to establish a metric space, resulting in floating, unscaled, and overlapping artifacts. Right: With geometric grounding, our method produces a physically plausible, Manhattan-aligned, and tightly registered object-centric scene without subsurface penetration.*
 
 ### 2. Experimental Results
