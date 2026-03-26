@@ -24,9 +24,9 @@ The following is the overall architecture diagram of this system:
 ### 2. Data results
 2.1 IoU Quantitative Comparison
 Qualitative comparison of the assembled 3D digital twin. Left: The baseline fails to establish a metric space, resulting in floating, unscaled, and overlapping artifacts. Right: With geometric grounding, our method produces a physically plausible, Manhattan-aligned, and tightly registered object-centric scene without subsurface penetration.
-Method,Bottle 1,Fridge,Coffee M.,Cab. 1,DishW.,Coffee,Cab. 2,Stool,Cab. 3,Oven,Bottle 2,Cab. 4,mIoU ↑
-SAM3D,0.0000,0.0000,0.0000,0.0000,0.2943,0.0000,0.0001,0.0000,0.0000,0.0000,0.0014,0.0000,0.0246
-Ours,0.6321,0.6205,0.5751,0.1502,0.3979,0.7519,0.3079,0.6743,0.7798,0.5842,0.7283,0.6562,0.5715
+|Method|Bottle 1|Fridge|Coffee M.|Cab. 1|DishW.|Coffee|Cab. 2|Stool|Cab. 3|Oven|Bottle 2|Cab. 4|mIoU ↑|
+|SAM3D|0.0000|0.0000|0.0000|0.0000|0.2943|0.0000|0.0001|0.0000|0.0000|0.0000|0.0014|0.0000|0.0246|
+|Ours|0.6321|0.6205|0.5751|0.1502|0.3979|0.7519|0.3079|0.6743|0.7798|0.5842|0.7283|0.6562|0.5715|
 
 2.2 Geometric Registration & Mesh Complexity
 Geometric registration metrics and mesh complexity. We report the TrICP Root Mean Square Error (RMSE), SAM3D-to-World Scale Factor (s), and topological complexity (Vertices and Faces) of the generated meshes for all 12 tracked objects in the scene.
