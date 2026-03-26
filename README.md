@@ -1,4 +1,9 @@
 # [KitchenTwin: Semantically and Geometrically Grounded 3D Kitchen Digital Twins]
+<!-- <p align="center">
+    <a href="https://arxiv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-00AEEF?style=plastic&logo=arxiv&logoColor=white" alt="Paper">
+    </a>
+<\p> -->
 
 ---
 
